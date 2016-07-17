@@ -11,6 +11,7 @@ PyOpenSSL
 pymongo
 SQLAlchemy
 psycopg2
+lxml
 gspread
 jira
 waitress
